@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
-import '../models/products_model.dart';
+import '../../models/products_model.dart';
 
 class DogRepository {
   final String apiUrl = "https://api.thedogapi.com/v1/breeds";

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:schooglink_flutter_project/bloc/productsbloc_bloc.dart';
 
-import '../models/products_model.dart';
+import '../../models/products_model.dart';
 
 class DogListScreen extends StatefulWidget {
   @override
